@@ -1,2 +1,2 @@
-# github-universe-2026
-iCalendar File for Github Universe 2026
+# **GitHub Universe**
+iCalendar Files for Github Universe, to serve as keepsakes
